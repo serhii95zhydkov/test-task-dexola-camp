@@ -1,3 +1,3 @@
 # test-task-dexola-camp
 
-[ТЗ Dexola Camp](https://docs.google.com/document/d/1v_duePP5cXCIK0amZO9UK2BSnHWCY1iWUy239HG0qys/edit)
+This test task from [Dexola](https://dexola.com/) is a simple web application that allows users to connect their wallet, check their account balance and wallet address, and transfer a token from the connected wallet to another address on the Goerli Ethereum network.
