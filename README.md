@@ -1,1 +1,0 @@
-# test-task-dexola-camp
